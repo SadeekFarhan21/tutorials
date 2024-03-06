@@ -1,3 +1,8 @@
+---
+title: p4 tutorial
+permalink: /
+layout: default
+---
 # P4 Tutorial
 
 If you are reading this while not attending a live P4 tutorial class,
